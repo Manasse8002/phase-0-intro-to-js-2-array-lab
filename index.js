@@ -1,4 +1,6 @@
 // Write your solution here!
+//Manipulation of array methods 
+
 const cats = ["Milo", "Otis", "Garfield"];
 
 function destructivelyAppendCat(name) {
